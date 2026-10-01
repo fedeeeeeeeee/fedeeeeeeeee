@@ -8,5 +8,5 @@
 **IT**
 - 🔭 **Di cosa mi occupo:** Full-stack & Soluzioni per clienti in ambito sanitario IT (dall'analisi iniziale alla produzione, tra frontend e backend).
 - 🛍️ **Nel weekend:** Commessa la domenica (perché gestire i clienti sul campo allena le soft skill meglio di qualsiasi corso aziendale).
-- 🌱 **Università:** In una relazione a lungo termine e complicata con la mia triennale in Informatica dal 2018. Stato attuale: *in buffering, ma sto ancora caricando...*
+- 🌱 **Università:** In una relazione a lungo termine e complicata con la mia triennale in Ingegneria e Scienze Informatiche dal 2018. Stato attuale: *in buffering, ma sto ancora caricando...*
 - ⚡ **Curiosità:** Mi piace leggere e videogiocare quando il tempo lo concede, e provo a tenermi in forma tra una vita sedentaria e una crisi esistenziale.
